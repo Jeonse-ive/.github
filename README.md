@@ -119,28 +119,29 @@
 <h3><details>
 <summary> 👤  회원가입 </summary>
 
-https://github.com/user-attachments/assets/99780e13-9b13-478a-adf0-17488518505d
+https://github.com/user-attachments/assets/d2ae88de-db42-4da7-8bf8-0008a2000349
 
 </details></h3>
 
 <h3><details>
 <summary> 🔐 로그인 및 회원정보 수정  </summary>
 
-https://github.com/user-attachments/assets/61220369-8100-48ab-aa7d-f9cd9b9de175
+https://github.com/user-attachments/assets/4c87d07e-5230-406b-b3ba-5e59f056ca7f
 
 </details></h3>
 
 <h3><details>
 <summary> 🚨 전세사기 지도 </summary>
 
-https://github.com/user-attachments/assets/d38117c1-baab-4d93-b9cb-67829a3d8606
+https://github.com/user-attachments/assets/49689f4b-b641-4824-b665-a33837b5c083
 
 </details></h3>
 
 <h3><details>
 <summary> 🔊 소음 지도</summary>
   
-https://github.com/user-attachments/assets/b88b654a-09c6-4500-839d-86e3638fd747
+
+https://github.com/user-attachments/assets/da58f7f9-7264-4ebb-8a2e-28f58e2ad2ef
 
 </details></h3>
 
